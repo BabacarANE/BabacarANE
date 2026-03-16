@@ -1,6 +1,6 @@
 <!-- Bannière animée -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20moi%20c'est%20[TonPrénom]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Étudiant%20Développeur%20Full-Stack&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20moi%20c'est%20BAbacar%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Étudiant%20Développeur%20Full-Stack&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <!-- Badges réseaux -->
